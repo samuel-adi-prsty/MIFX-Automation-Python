@@ -1,0 +1,2 @@
+pip install pandas yfinance openpyxl
+pip freeze > requirements.txt
