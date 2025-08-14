@@ -13,6 +13,7 @@ This project fetches the latest **NVIDIA (NVDA)** stock price from Yahoo Finance
 ---
 
 ## 📁 Project Structure
+
 MIFX-Yahoo-Finance/
 │
 ├── nvda_price.py # Main script to fetch NVDA price
